@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gyeongwon</h1>
+<h1 align="center">Hi there 👋, I'm Gyeongwon Kang</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/cbf4024206204c408709d4cb1850eb3f](https://www.notion.so/cbf4024206204c408709d4cb1850eb3f)
