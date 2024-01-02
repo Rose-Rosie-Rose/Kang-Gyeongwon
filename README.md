@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gyeongwon Kang</h1>
 <h3 align="center">A passionate frontend developer from</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/cbf4024206204c408709d4cb1850eb3f](https://www.notion.so/cbf4024206204c408709d4cb1850eb3f)
+- 👨‍💻 All of my projects are available at [[https://www.notion.so/cbf4024206204c408709d4cb1850eb3f](https://www.notion.so/cbf4024206204c408709d4cb1850eb3f)](https://www.notion.so/c9ffb9dc6e3b4c509649b8960713c806)
 
 - 📫 How to reach me **rosie0940@daum.net**
 
